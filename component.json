@@ -1,0 +1,28 @@
+{
+  "name": "es6-promise",
+  "repo": "imiric/es6-promise",
+  "description": "A polyfill for ES6-style Promises, tracking rsvp",
+  "version": "0.1.1",
+  "keywords": [
+    "promises",
+    "futures",
+    "events"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": [
+    "main.js",
+    "promise/all.js",
+    "promise/asap.js",
+    "promise/cast.js",
+    "promise/config.js",
+    "promise/polyfill.js",
+    "promise/promise.js",
+    "promise/race.js",
+    "promise/reject.js",
+    "promise/resolve.js",
+    "promise/utils.js"
+  ]
+}
